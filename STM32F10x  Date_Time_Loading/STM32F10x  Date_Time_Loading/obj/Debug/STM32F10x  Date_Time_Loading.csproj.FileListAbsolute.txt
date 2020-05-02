@@ -1,0 +1,9 @@
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\bin\Debug\STM32F10x  Date_Time_Loading.exe
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\bin\Debug\STM32F10x  Date_Time_Loading.pdb
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x  Date_Time_Loading.csprojAssemblyReference.cache
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x__Date_Time_Loading.Form1.resources
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x__Date_Time_Loading.Properties.Resources.resources
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x  Date_Time_Loading.csproj.GenerateResource.cache
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x  Date_Time_Loading.csproj.CoreCompileInputs.cache
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x  Date_Time_Loading.exe
+C:\Users\PC01\source\repos\STM32F10x  Date_Time_Loading\STM32F10x  Date_Time_Loading\obj\Debug\STM32F10x  Date_Time_Loading.pdb
